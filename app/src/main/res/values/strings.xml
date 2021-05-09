@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number System Converter</string>
+    <string name="convert">Convert</string>
+    <string name="dec">DEC</string>
+    <string name="bin">BIN</string>
+    <string name="hex">HEX</string>
+    <string name="bcd">BCD</string>
+    <string name="originalHint">Input Value</string>
+</resources>
